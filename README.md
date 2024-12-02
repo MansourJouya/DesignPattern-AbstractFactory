@@ -28,13 +28,13 @@ Each language has its own directory containing the specific implementation of th
 To get started with the project, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/DesignPatterns-AbstractFactory.git
+git clone https://github.com/MansourJouya/DesignPattern-AbstractFactory.git
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd DesignPatterns-AbstractFactory
+cd DesignPattern-AbstractFactory
 ```
 
 You can then explore the implementation in your preferred programming language.
